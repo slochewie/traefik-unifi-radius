@@ -1,4 +1,4 @@
-# Unifi Controller, Radius, Daloradius, and Traefik
+# Unifi Controller, Radius, Daloradius, Mariadb and Traefik
 https://hub.docker.com/r/linuxserver/unifi-controller
 
 This is a work in progress.
@@ -14,7 +14,13 @@ Edit the docker-compose.yml as needed for your installation such as ports. If yo
 mkdir -p $HOME/docker/
 ```
 ```
-cd $HOME/docker/unifi-controller
+cd $HOME/docker/
+```
+```
+git clone https://github.com/slochewie/unifi-radius.git
+```
+```
+cd $HOME/docker/unifi-radius
 ```
 ```
 docker-compose pull
