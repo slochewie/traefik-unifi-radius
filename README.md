@@ -35,7 +35,7 @@ docker-compose up -d
 
 Aaron Wilson <https://niteowl.dev>
 
-[![](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/slochewie)
+[![](https://cdn.buymeacoffee.com/buttons/default-blue.png)](https://www.buymeacoffee.com/slochewie)
 
 ## License
 
