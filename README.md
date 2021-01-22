@@ -31,9 +31,12 @@ docker-compose up -d
 
 
 
-
 ## Author
 
 Aaron Wilson <https://niteowl.dev>
 
 [![](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/slochewie)
+
+## License
+
+[MIT License](./LICENSE)
